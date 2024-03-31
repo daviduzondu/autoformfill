@@ -1,0 +1,19 @@
+{
+  "name": "autoformfill",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple tool for generating responses for Google Forms ",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Uzondu",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.0.0"
+  }
+}
